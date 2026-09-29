@@ -1,0 +1,10 @@
+house-style: client-facing
+
+Hi there,
+
+Thanks for the call on Tuesday. As discussed, the rebuild should take about six weeks, and the first milestone is the audit.
+
+There are two ways to handle the migration. Both approaches have merit, and it depends on your priorities. You could go with either.
+
+Regards,
+The studio

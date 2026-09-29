@@ -1,0 +1,7 @@
+We checked 60 of our own pages last month. Eleven had no meta description and four returned a 404 from the footer.
+
+None of it was hard to fix. The footer links took ten minutes, the descriptions took an afternoon.
+
+The audit sheet is here: https://example.com/audit-sheet
+
+If your site has not been checked since launch, start with the footer. It is the part nobody looks at.

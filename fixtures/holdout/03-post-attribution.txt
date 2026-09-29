@@ -1,0 +1,5 @@
+Everyone knows that page speed matters. Analysts say that faster sites convert better, and many founders believe the effect is even larger on mobile.
+
+We tried it on our own site. Cutting the hero video weight by half took the page from 6 seconds to 3.
+
+The lesson is simple: measure first. According to our own logs, 30% of mobile visits ended before the hero loaded. Never guess.

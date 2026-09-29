@@ -1,0 +1,9 @@
+house-style: client-facing
+
+Hi there,
+
+Your booking page takes 5.2 seconds to load on a phone, and the pricing table sits three taps down. Both are fixable in a single build.
+
+I can send a one-page list of the changes, ranked by cost. Reply with "yes" and I will have it to you by Thursday.
+
+The studio
