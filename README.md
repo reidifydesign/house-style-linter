@@ -59,7 +59,7 @@ There is nothing to install. Use `python3` if `python` is not on your path. Poin
 
 Reidify is a design studio, and our copy standard is strict. No em dashes, no curly quotes, no stock brand claims, no number without a source. Most of that can be decided by a program, so we wrote it as one and keep the human read for what a program cannot judge.
 
-We built it to check our own copy, and this README passes it. Run over 20 of our published LinkedIn posts from spring and summer 2026, it found 2 em dashes, 11 curly quote characters and 4 filler words and phrases that had already shipped. Four approved pieces of our own site copy produced no findings.
+We built it to check our own copy, and this README passes it.
 
 It makes no model calls and needs no network. Checking the 26 fixture files (1,792 words) takes about 40 ms on a Windows laptop with Python 3.12.
 
